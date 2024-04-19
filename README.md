@@ -7,7 +7,7 @@
 
 <h2>
 
-[🚀Live Demo](https://job-listings-with-filtering-codepapa360.vercel.app)
+[🚀Live Demo](https://66226889ac5a7b03d79f28f2--japan-jobs.netlify.app/)
 
 </h2>
 </div>
